@@ -1,5 +1,4 @@
 # Project-Hacktiv8---Intro-To-Programming
-Tugas dari Renal Apriansyah
-
+Colab Renal Apriansyah bareng firawz
 
 My first Blog terserah kalian mau tulis apa...
