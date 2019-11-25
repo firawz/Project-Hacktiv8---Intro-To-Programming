@@ -1,0 +1,34 @@
+PseudoCode 
+
+Store "count" to 1
+
+While "count" < 11
+    Display "count"
+    Calculate "count" mod 2
+    Store "remainder" to the result of calculation
+    If "remainder" equals to 0
+        Display "even!"
+        Else
+        Display "odd"
+
+
+
+
+Exercise Algorithm and PseudoCode
+
+Store becak person full level with 4 ; 
+Store max accel = 20km/h = 0 Person on board
+1. If  person >2  
+    accel decrease 5km/h
+    Display accel = 15
+2. if person = max 
+    accel decrease 7km/h
+    Display accel = 17
+3. if max person <=2 
+    accel decrease 2km/h
+    Display accel = 20 - (2 x Xperson)
+
+if calculation != 18, 16, 15, 13 
+    Display Error
+calculate max accel - {condiiton of person involve}
+display calculation 
