@@ -15,20 +15,69 @@ While "count" < 11
 
 
 Exercise Algorithm and PseudoCode
-
-Store becak person full level with 4 ; 
+If person >4 display Error
+Store max person full level with 4 ; 
 Store max accel = 20km/h = 0 Person on board
 1. If  person >2  
     accel decrease 5km/h
     Display accel = 15
-2. if person = max 
+2. if person = max person 
     accel decrease 7km/h
-    Display accel = 17
+    Display accel = 13
 3. if max person <=2 
     accel decrease 2km/h
     Display accel = 20 - (2 x Xperson)
-
 if calculation != 18, 16, 15, 13 
     Display Error
 calculate max accel - {condiiton of person involve}
 display calculation 
+
+
+MODULUS
+
+Var number = 2 
+Display genap
+Var number = 1 
+Display Ganjil
+
+15 
+25 
+
+While 
+    number1 = 25
+    number2 = 15
+While "count" to <10
+    Calculate "count" -1
+
+
+
+
+TAMPILIN JAM
+Set max 24
+If number >24, Display error
+If Number >= 12
+    Do calculation -12
+Display number 
+
+
+
+Jam = 12
+Menit = 90
+Outputnya jam 13 30
+
+If menit > 60, Display Error
+
+If menit > 60
+    Do jam + 1
+    Do Menit -60
+
+Jam = 12 
+Menit = 120
+If menit > 60
+    Do Calculation jam + Pembulatan kebawah (menit / 60)
+    Display "Jam", (mod 60 minute) 
+
+
+If menit > 60 
+    Do calculation jam + Math.floor (menit/60)
+    Display jam, (mod 60)
